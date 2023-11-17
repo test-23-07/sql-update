@@ -122,7 +122,7 @@
       "specs": {
         "title": "Passe die update.sql so an, dass Lilli ein Alter von 28 Jahren eingetragen bekommt."
       },
-      "name": "checking for 'Lilli' and his 'age' entries in table",
+      "name": "checking for 'Lilli' and her 'age' entries in table",
       "feedback": "Could not find an entry matching the requirements. Please check the script",
       "urls": [
         "https://sqldocs.org/sqlite/sqlite-where-clause/"
